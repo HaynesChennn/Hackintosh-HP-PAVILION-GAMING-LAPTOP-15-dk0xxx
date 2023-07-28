@@ -28,11 +28,11 @@ CFG-Lock 是 BIOS 中的一项设置，允许写入特定的寄存器（在本�
 
 按 `Ctrl + W` 保存该值
 
-![0x3E](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/abf7d065151c4e7f900b04c740ad9606.png)
+![0x3E](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/0x3E.png)
 
 按 `Ctrl+PGDN` 翻到下一页
 
-![0x107](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/02dbccfa5164018d076a8fc25f926934_720.png)
+![0x107](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/0x107.png)
 
 每个位置的值都要修改，修改完成后出现下图弹窗即为修改成功
 
