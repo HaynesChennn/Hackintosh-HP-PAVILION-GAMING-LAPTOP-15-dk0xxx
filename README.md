@@ -12,7 +12,7 @@ CFG-Lock 是 BIOS 中的一项设置，允许写入特定的寄存器（在本�
 
 解压 RU.zip，新建一个 EFI 文件夹，把 RU.zip 解压出来的 BOOT 文件夹放入 EFI 文件夹中，重启进入 RU
 
-![RU.EFI](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/c383046db44e9e8e2744970924c0a585_720.png)
+![RU.EFI](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/c383046db44e9e8e2744970924c0a585.png)
 
 按 `ESC` - `ALT + '='` - 按 `↓` 一直找到 "CpuSetup" 回车进入
 
@@ -51,7 +51,7 @@ CFG-Lock 是 BIOS 中的一项设置，允许写入特定的寄存器（在本�
 ## 感谢
 
 特别感谢群内两位大佬的热情指导
-![感谢](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/7d52858eb83551ce6dced25ad8eb6134_720.png)
+![感谢](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/7d52858eb83551ce6dced25ad8eb6134.png)
 
 ## 引用
 
