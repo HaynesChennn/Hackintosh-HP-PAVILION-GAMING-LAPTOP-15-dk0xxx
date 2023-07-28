@@ -12,11 +12,11 @@ CFG-Lock 是 BIOS 中的一项设置，允许写入特定的寄存器（在本�
 
 解压 RU.zip，新建一个 EFI 文件夹，把 RU.zip 解压出来的 BOOT 文件夹放入 EFI 文件夹中，重启进入 RU
 
-![RU.EFI](images/c383046db44e9e8e2744970924c0a585_720.png)
+![RU.EFI](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/c383046db44e9e8e2744970924c0a585_720.png)
 
 按 `ESC` - `ALT + '='` - 按 `↓` 一直找到 "CpuSetup" 回车进入
 
-![CPUSetup](images/f1e6d84634287718d298705c866b2132.png)
+![CPUSetup](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/f1e6d84634287718d298705c866b2132.png)
 
 我们需要修改的值，以下数值只使用于 HP PAVILION GAMING LAPTOP 15-dk0xxx
 
@@ -28,30 +28,30 @@ CFG-Lock 是 BIOS 中的一项设置，允许写入特定的寄存器（在本�
 
 按 `Ctrl + W` 保存该值
 
-![0x3E](images/abf7d065151c4e7f900b04c740ad9606.png)
+![0x3E](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/abf7d065151c4e7f900b04c740ad9606.png)
 
 按 `Ctrl+PGDN` 翻到下一页
 
-![0x107](images/02dbccfa5164018d076a8fc25f926934_720.png)
+![0x107](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/02dbccfa5164018d076a8fc25f926934_720.png)
 
 每个位置的值都要修改，修改完成后出现下图弹窗即为修改成功
 
-![CTRL+W](images/def7c28ba48597f5876c6e61821f33dd.png)
+![CTRL+W](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/def7c28ba48597f5876c6e61821f33dd.png)
 
 重启查看 CFG LOCK 是否解锁
 
 打开 Hackintool，点击工具
 
-![打开Hackintool](images/1.png)
+![打开Hackintool](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/1.png)
 
 查询结果 CFG Lock 为 0 即为解锁成功
 
-![查询结果](images/2.png)
+![查询结果](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/2.png)
 
 ## 感谢
 
 特别感谢群内两位大佬的热情指导
-![感谢](images/7d52858eb83551ce6dced25ad8eb6134_720.png)
+![感谢](https://cdn.jsdelivr.net/gh/ianchen0713/Hackintosh-HP-PAVILION-GAMING-LAPTOP-15-dk0xxx@main/images/7d52858eb83551ce6dced25ad8eb6134_720.png)
 
 ## 引用
 
